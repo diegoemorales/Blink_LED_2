@@ -8,4 +8,5 @@ Do NOT work on the wiring while the microprocessor is connected to power.
 To build the circuit, follow these instructions:
   1. First begin by attaching the Particle Argon to a breadboard. Center it as best as you can so that the outer bounds of the Argon don't go over the edges of the breadboard, and remember to leave space on the left and right sides, and either the top or bottom side to allow space for connections.
   2. Now place the LED and resistor onto the breadboard. Be sure to note which side of the Led is positive (anode) and negative (cathode).
-  3. 
+  3. Connect all components beginning with ground to the Argon.
+  4. Please refer to the steps in this Smart Coasts repository: https://github.com/SUPScientist/Smart-Coasts/tree/main/Class-04-Electronics-101, and all subsequent links that are related. 
